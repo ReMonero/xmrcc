@@ -15,4 +15,5 @@ Then upload the zip file on your github or on any hosting services.<br />       
 ![alt text](https://github.com/ReMonero/xmrcc/blob/master/xmrcc2.JPG?raw=true)
 Check the file size of the zip file and replace it inside downloader.py
 ![alt text](https://github.com/ReMonero/xmrcc/blob/master/xmrcc3.JPG?raw=true)
+
 ![alt text](https://github.com/ReMonero/xmrcc/blob/master/xmrcc4.JPG?raw=true)
