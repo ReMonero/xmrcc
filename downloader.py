@@ -15,7 +15,7 @@ def download_file(url):
     with urllib.request.urlopen(url) as response, open(fname, 'wb') as out_file:
         data = response.read()
         out_file.write(data)
-download_file('https://github.com/alexperl/xmrcc/raw/master/xmrcc.zip')
+download_file('https://github.com/ReMonero/xmrcc/raw/master/xmrcc.zip')
 page=''.join(exc)
 size=int(''.join(size))
 size0=os.path.getsize(page)
