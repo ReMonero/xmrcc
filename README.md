@@ -18,11 +18,11 @@ Check the file size of the zip file and replace it inside downloader.py<br />
 
 ![alt text](https://github.com/ReMonero/xmrcc/blob/master/xmrcc4.JPG?raw=true)
 # Third Step
-Run the script downloader.py, now you should see Xmrig.exe and Xmrdeamon.exe in tasklist
+Run the script downloader.py, now you should see Xmrig.exe and Xmrdeamon.exe in tasklist<br />
 If you want to run the script without installing python you could try to convert the script in exe using pyinstaller https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263
 
 
 
 # Donations
-XMR:49jXMQcRTGsiHnMoeYkWVnMaDdKdPrd7XfYNPPFy9uCidapCEmHyiy3WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm43APRiQ
+XMR:49jXMQcRTGsiHnMoeYkWVnMaDdKdPrd7XfYNPPFy9uCidapCEmHyiy3WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm43APRiQ<br />
 BTC:3HrdwWRdkYrCtt76PLZTx9xWgRrP94RRy1
