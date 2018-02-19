@@ -19,9 +19,9 @@
     "syslog": false,
     "pools": [
         {
-            "url": "pool.electroneum.hashvault.pro:80",
-            "user": "etnk1VXLNDH9ecgapWU5VPJyQdRnUvEnqaXNS5heaf8VLhoVHCgi1KMT9FnAVwzmyW7Z124fMjkcedR9UWSfGRFZ1gWucKY5ZM",
-            "pass": "college",
+            "url": "",
+            "user": "",
+            "pass": "x",
             "keepalive": true,
             "nicehash": false
         }
@@ -32,7 +32,7 @@
         "worker-id": null
     },
     "cc-client": {
-        "url": "204.16.247.153:3344",
+        "url": "localhost:3344",
         "access-token": "1234",
         "worker-id": null,
         "update-interval-s": 10
