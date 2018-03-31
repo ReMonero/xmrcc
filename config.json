@@ -1,40 +1,7 @@
-{
-    "algo": "cryptonight",
-    "av": null,
-    "aesni": 0,
-    "threads": 0,
-    "multihash-factor": 0,
-    "multihash-thread-mask": null,
-    "background": true,
-    "colors": true,
-    "cpu-affinity": null,
-    "cpu-priority": null,
-    "donate-level": 1,
-    "log-file": null,
-    "maxmrcc-cpu-usage": 75,
-    "print-time": 60,
-    "retries": 5,
-    "retry-pause": 5,
-    "safe": false,
-    "syslog": false,
-    "pools": [
-        {
-            "url": "",
-            "user": "",
-            "pass": "x",
-            "keepalive": true,
-            "nicehash": false
-        }
-    ],
-    "api": {
-        "port": 0,
-        "access-token": null,
-        "worker-id": null
-    },
-    "cc-client": {
-        "url": "localhost:3344",
-        "access-token": "1234",
-        "worker-id": null,
-        "update-interval-s": 10
-    }
-}
+[
+  {
+    "path": "C:\\xmr", 
+    "version": "1.5.2",
+    "refresh": 1000
+  }
+]
